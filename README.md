@@ -51,6 +51,9 @@ The model consists of three main components:
 - **Graph Transformers**: Custom graph attention layers for molecular encoding
 - **Interactive GUI**: Streamlit-based web interface for predictions
 
+## Training History
+<img width="2234" height="1481" alt="training_history" src="https://github.com/user-attachments/assets/799f3545-1b44-4f89-bc26-3caff28e3f02" />
+
 ### Usage
 
 ```bash
