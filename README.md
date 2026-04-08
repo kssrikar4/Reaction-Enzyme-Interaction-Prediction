@@ -56,16 +56,17 @@ The model consists of three main components:
 
 ### Usage
 
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/kssrikar4/Reaction-Enzyme-Interaction-Prediction
 cd Reaction-Enzyme-Interaction-Prediction
-
-# Install dependencies
-pip install torch transformers rdkit streamlit pandas numpy matplotlib
 ```
-Launch the Streamlit application for interactive predictions:
+### Install dependencies
+```bash
+pip install torch transformers rdkit streamlit pandas numpy matplotlib huggingface_hub
+```
 
+### Launch the Streamlit application for predictions:
 ```bash
 streamlit run app.py
 ```
