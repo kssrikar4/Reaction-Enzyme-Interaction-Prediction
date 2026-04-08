@@ -1,0 +1,9 @@
+{
+  "esm_model_name": "facebook/esm2_t33_150M_UR50D",
+  "graph_input_dim": 20,
+  "graph_d_model": 256,
+  "graph_n_layers": 4,
+  "graph_n_heads": 8,
+  "cross_attn_heads": 8,
+  "dropout": 0.1
+}
