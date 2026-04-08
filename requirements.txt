@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers
+tokenizers
+numpy
+scipy
+pandas
+rdkit
+streamlit
+matplotlib
+Pillow
+requests
+notebook
+ipykernel
+tqdm
