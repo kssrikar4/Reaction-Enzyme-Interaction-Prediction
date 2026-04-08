@@ -85,12 +85,11 @@ The model is trained on data from:
 
 ```
 .
-├── train_reaction_model.py    # Main training script
 ├── train.ipynb                # Jupyter notebook for training/experimentation
 ├── app.py                     # Streamlit GUI application
 ├── model_config.json          # Model hyperparameters
 ├── training_history.csv       # Training metrics
-│(Must be downloaded)
+│(Must be manually downloaded)
 ├── rhea-reaction-smiles.tsv   # Rhea reaction data
 ├── rhea-chebi-smiles.tsv      # Chemical compound data
 ├── rhea-directions.tsv        # Reaction directions
